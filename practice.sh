@@ -3,5 +3,6 @@
 echo "hello world"
 DATE=$(date)
 
-echo $DATE
-echo $PWD
+echo "Today is: $DATE"
+echo "Directory is: $PWD"
+echo "user running the script is: $USER"
