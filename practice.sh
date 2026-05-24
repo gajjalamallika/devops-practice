@@ -4,3 +4,4 @@ echo "hello world"
 DATE=$(date)
 
 echo $DATE
+echo $PWD
